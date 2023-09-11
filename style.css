@@ -1,0 +1,30 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&family=Source+Code+Pro&display=swap');
+body {
+    font-family: 'Source Code Pro', cursive;
+    text-transform: uppercase;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    letter-spacing: 0.5rem;
+    color: rgba(0,0,0,0.5);
+    background: linear-gradient(to right, blue , green) ;
+}
+
+h1 {
+    font-family: 600 3.5em 'Source Code Pro', cursive;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    width: 100%;
+}
+
+h3 {
+	font-family: 900 1em 'Source Code Pro', cursive;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: none;
+    letter-spacing: 0.01em;
+
+}
